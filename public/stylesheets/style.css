@@ -3,6 +3,14 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+header {
+	background-color: #5cb85c;
+}
+
 a {
   color: #00B7FF;
+}
+
+.header-link:hover {
+	background-color: #f0ad4e;
 }
