@@ -1,0 +1,22 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "Experiments on Node.JS and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-kogan/FirstApp.git"
+  },
+  "author": "Alex Kogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-kogan/FirstApp/issues"
+  },
+  "homepage": "https://github.com/alex-kogan/FirstApp#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
